@@ -1,12 +1,17 @@
 ## Hi there 👋
 
-<!--
-**juuvuor/juuvuor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
 ![Profile View Counter](https://komarev.com/ghpvc/?username=juvavuor&style=plastic&color=ff69b4)
 
+I’m Juuso Vuorela, a Bachelor’s student in Information and Software Engineering at the University of Jyväskylä, graduating in spring 2025. My studies focus on Full Stack development, web development, databases, and user-centered design. I’m passionate about frontend development, UI/UX design, and building innovative software solutions.
+
+**👀 Check my portfolio:**
+
+<a href="https://juuvuor.github.io/portfolio/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/?size=100&id=0jTdOE7fTwMb&format=png&color=f3add0" alt="MyPortfolio" width="45" height="45"/>
+</a>
+  
+
+## Shortly my interests etcetera.
 🤓 I’m currently studying in the Bachelor of Information and Software Engineering program at the University of Jyväskylä and aiming to graduate as a "Diplomi-Insinööri" in the near future.
 
 🌱 I’m currently learning AWS technologies, React, TypeScript, and DevOps practices to enhance my expertise in full-stack development and user-centric application design.
@@ -21,10 +26,7 @@ Here are some ideas to get you started:
     <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="LinkedIn" width="40" height="40"/>
   </a>
 
-
-
-
-<h3 align="left">Languages and Tools:</h3>  
+## Languages and Tools:
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -67,11 +69,6 @@ Here are some ideas to get you started:
   <a href="https://learn.microsoft.com/en-us/power-apps/powerapps-overview" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/?size=100&id=OU2ddOKw840K&format=png&color=000000" alt="power apps" width="40" height="40"/>
   </a>
-
-
-
-
-
   
 </p>
 
