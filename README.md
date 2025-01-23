@@ -2,7 +2,7 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=juvavuor&style=plastic&color=ff69b4)
 
-I’m Juuso Vuorela, a Bachelor’s student in Information and Software Engineering at the University of Jyväskylä, graduating in spring 2025. My studies focus on Full Stack development, web development, databases, and user-centered design. I’m passionate about frontend development, UI/UX design, and building innovative software solutions.
+I’m Juuso, a Bachelor’s student in Information and Software Engineering at the University of Jyväskylä, graduating in spring 2025. My studies focus on Full Stack development, web development, databases, and user-centered design. I’m passionate about frontend development, UI/UX design, and building innovative software solutions.
 
 **👀 Check my portfolio:**
 
